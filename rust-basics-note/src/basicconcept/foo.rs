@@ -12,6 +12,11 @@ pub fn foo01(){
     println!("格式字符串中通过 {{{{ 和 }}}} 分别转义代表 {{ 和 }}");
 }
 
+
+/**
+ * 变量与可变性
+ */
+
 pub fn foo02(){
     let mut x = 5;
     println!("The value of x is: {}", x);
