@@ -1,12 +1,7 @@
 mod guessing;
+mod basicconcept;
 
 fn main() {
-
-    println!("==========================================");
-
-    guessing::foo::foo01();
-
-    println!("==========================================");
-
-    guessing::foo::foo02();
+    // guessing::foo::foo01();
+    // guessing::foo::foo02();
 }
